@@ -1,6 +1,6 @@
 {
-    "name": "playground",
-    "description": "a playgound description",
+    "name": "html-import",
+    "description": "HTML import",
     "authors": "Mirko Appel",
     "version": "0.0.1",
     "main": "pathToMain",
